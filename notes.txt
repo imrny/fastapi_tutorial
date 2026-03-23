@@ -1,0 +1,4 @@
+FastApi youtube.com Tutorial (Genalytiq) - https://www.youtube.com/watch?v=PzIF1IAxzaw
+
+Ctrl + Shift + p    - list all vscode commands
+
